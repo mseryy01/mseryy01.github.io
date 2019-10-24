@@ -1,5 +1,10 @@
+---
+layout: post
 title: Food is Life
-subtitle: First Lmbda Project
+subtitle: First Lambda Project
+tags: [food]
+comments: true
+---
 
 “Do you know what breakfast cereal is made of? It’s made of all those little curly wooden shavings you find in pencil sharpeners!”
 ― Roald Dahl
