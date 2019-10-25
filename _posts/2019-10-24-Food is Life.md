@@ -2,6 +2,7 @@
 layout: post
 title: Food is Life
 subtitle: First Lambda Project
+bigimg: /img/food_table.jfif
 tags: [food]
 ---
 “Do you know what breakfast cereal is made of? It’s made of all those little curly wooden shavings you find in pencil sharpeners!”
