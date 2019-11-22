@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Mikhail Seryy Data Scientist
+title: Mikhail Seryy
 
 # Short description of your site
 description: Showing off my work to the World
@@ -11,7 +11,7 @@ description: Showing off my work to the World
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "http://mseryy01.github.io/"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -21,14 +21,11 @@ description: Showing off my work to the World
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "http://mseryy01.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/myface.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -61,6 +58,8 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Mikhail Seryy
+  github: mseryy01    # eg. daattali
+  linkedin: mseryy01  # eg. daattali
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,7 +71,7 @@ social-network-links:
   facebook: mike.seryy
   github: mseryy01
 #  reddit: yourname
-#  linkedin: mseryy01
+  linkedin: mseryy01
 #  xing: yourname
 #  spotify: yourname
 #  twitch: yourname
@@ -83,10 +82,11 @@ share-links-active:
   twitter: false
   facebook: true
   linkedin: true
+  github: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -149,7 +149,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/New York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
